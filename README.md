@@ -1,17 +1,36 @@
-# Hello Microverse Project
+# Hello Microverse project
 
-> In this project i have set up a hello world repository. The goal of the project was to acquire skills in using linters, git and github flow and document my repo in a professional way.
+> In this project i have set up a Hello-Microverse repository. The goal of the project was to acquire skills in using linters, git and github flow and document my repo in a professional way.
 
 
 ## Built With
 
 - Htmcl and Css
-- Git and Github flow are used.
-- Visual Studio text editor is used for the coding.
+- Git and Github
+- Vs Code
+
+## Live Demo (if available)
+
+Not available
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
 
 ## Authors
 
-👤 **Kashif Saleem Ghman**
+👤 **Kashif Saleem Ghuman**
 
 - GitHub: [@Kashif-saleem-ghuman](https://github.com/Kashif-Saleem-Ghuman)
 - Twitter: [@Kashif14Saleem](https://twitter.com/Kashif14Saleem)
@@ -34,3 +53,8 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
